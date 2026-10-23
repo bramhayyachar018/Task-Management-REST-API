@@ -362,6 +362,6 @@ Possible future enhancements include:
 
 ## Author
 
-**Ahmed Amir**
+**A Bramhayya Achari**
 
 Built as a FastAPI backend project for learning and practicing REST API development, database integration, and modular application architecture.
